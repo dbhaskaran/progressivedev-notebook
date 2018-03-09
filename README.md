@@ -1,6 +1,5 @@
-# progressivedev-notebook
----
-<pre>This repository contains the notes on how to be effective, progressive and successful as a software developer </pre>
+#progressivedev-notebook
+This repository contains the notes on how to be effective, progressive and successful as a software developer
 ---
 ### Reference:
 * [The Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
