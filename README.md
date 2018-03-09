@@ -1,10 +1,7 @@
 # progressivedev-notebook
 This repository contains the notes on how to be effective, progressive and successful as a software developer
-
-[The Senior Software Engineer](https://www.amazon.com/Senior-Software-Engineer-Practices-Effective/dp/0990702804)
-
 ---
-###Reference:
+### Reference:
 * [The Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 * [The Senior Software Engineer](https://www.amazon.com/Senior-Software-Engineer-Practices-Effective/dp/0990702804)
 * [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344)
