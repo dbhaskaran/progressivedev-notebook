@@ -1,4 +1,4 @@
-#progressivedev-notebook
+# progressivedev-notebook
 This repository contains the notes on how to be effective, progressive and successful as a software developer
 ---
 ### Reference:
